@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
+| [0771-jewels-and-stones](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1773-count-items-matching-a-rule) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
