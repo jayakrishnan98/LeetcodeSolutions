@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0088-merge-sorted-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1108-defanging-an-ip-address) |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0169-majority-element) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
