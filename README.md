@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1108-defanging-an-ip-address) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
