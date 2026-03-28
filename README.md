@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1773-count-items-matching-a-rule) |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
