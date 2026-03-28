@@ -1,7 +1,13 @@
 class Solution:
     def lengthOfLastWord(self, s: str) -> int:
-        a = s.split(" ")
-        for word in a[::-1]:
-            if len(word) > 0 and word != " ":
-                return len(word)
-        return 0
+        i = len(s) - 1
+        length = 0
+
+        while i>=0 and s[i] == " ":
+            i -= 1
+
+        while i>=0 and s[i] != " ":
+            length+=1
+            i-=1
+        
+        return length
