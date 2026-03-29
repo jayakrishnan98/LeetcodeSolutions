@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0066-plus-one) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0383-ransom-note) |
