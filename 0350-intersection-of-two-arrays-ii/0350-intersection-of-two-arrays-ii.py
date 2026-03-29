@@ -1,5 +1,7 @@
 class Solution:
     def intersect(self, nums1: List[int], nums2: List[int]) -> List[int]:
+        if len(nums2) > len(nums1):
+            nums2, nums1 = nums1, nums2  
         freq = {}
         result = []
         for i, num in enumerate(nums1):
