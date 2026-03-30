@@ -8,8 +8,9 @@ class Solution:
             while left < right and nums[right] % 2 != 0:
                 right -= 1
 
-            nums[left], nums[right] = nums[right], nums[left]
-            left += 1
-            right -= 1
+            if left < right:
+                nums[left], nums[right] = nums[right], nums[left]
+                left += 1
+                right -= 1
 
         return nums
