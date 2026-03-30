@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0485-max-consecutive-ones) |
+| [0977-squares-of-a-sorted-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1470-shuffle-the-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
