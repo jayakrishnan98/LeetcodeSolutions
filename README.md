@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0520-detect-capital) |
+| [0567-permutation-in-string](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0796-rotate-string) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0567-permutation-in-string](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1512-number-of-good-pairs) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
