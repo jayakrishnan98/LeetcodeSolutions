@@ -1,20 +1,36 @@
 class Solution:
     def backspaceCompare(self, s: str, t: str) -> bool:
-        
-        def _get_final_string(my_string:str) -> str:
-            my_string = list(my_string)
-            my_stack = []
-            for char in my_string:
-                if char != '#':
-                    my_stack.append(char)
+
+        i, j = len(s) - 1, len(t) - 1
+        skip_s = skip_t = 0
+
+        while i >= 0 or j >= 0:
+
+            while i >= 0:
+                if s[i] == '#':
+                    skip_s += 1
+                elif skip_s > 0:
+                    skip_s -= 1
                 else:
-                    if my_stack:
-                        my_stack.pop()
-            return "".join(my_stack)
+                    break
+                i -= 1
 
+            while j >= 0:
+                if t[j] == '#':
+                    skip_t += 1
+                elif skip_t > 0:
+                    skip_t -= 1
+                else:
+                    break
+                j -= 1
 
-        a = _get_final_string(s)
-        b = _get_final_string(t)
+            if i >= 0 and j >= 0:
+                if s[i] != t[j]:
+                    return False
+            elif i >= 0 or j >= 0:
+                return False
 
-        print(a, b)
-        return a == b
+            i -= 1
+            j -= 1
+
+        return True
