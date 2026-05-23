@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
