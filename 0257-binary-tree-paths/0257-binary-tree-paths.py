@@ -5,12 +5,12 @@ class Solution:
             if not node:
                 return
             path += str(node.val)
-            # Leaf node
             if not node.left and not node.right:
                 result.append(path)
                 return
-            path += "->"
+            path += '->'
             dfs(node.left, path)
             dfs(node.right, path)
+
         dfs(root, "")
         return result
