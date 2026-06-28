@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1773-count-items-matching-a-rule) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting Sort
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0680-valid-palindrome-ii) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Stack
 |  |
 | ------- |
