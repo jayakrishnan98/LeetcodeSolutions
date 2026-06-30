@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1108-defanging-an-ip-address) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1773-count-items-matching-a-rule) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
 | ------- |
