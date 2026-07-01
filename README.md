@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1672-richest-customer-wealth) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0226-invert-binary-tree) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -377,4 +381,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
