@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0088-merge-sorted-array) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0169-majority-element) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0047-permutations-ii) |
 | [0257-binary-tree-paths](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
