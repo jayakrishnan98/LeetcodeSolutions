@@ -14,7 +14,6 @@ class Solution:
                     current.append(num)
                     # Explore
                     backtrack(current)
-
                     # Undo the choice
                     current.pop()
 
