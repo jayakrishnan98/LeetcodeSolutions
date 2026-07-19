@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0078-subsets) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
