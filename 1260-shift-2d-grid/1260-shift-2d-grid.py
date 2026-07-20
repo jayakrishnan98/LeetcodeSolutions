@@ -11,19 +11,18 @@ class Solution:
 
         if k == 0:
             return grid
-        elif k>0:
-            flattened = flattened[-k:] + flattened[:-k]
+
+        flattened = flattened[-k:] + flattened[:-k]
 
         result = []
-        k = 0
-        print(flattened)
+        flat_index = 0
         for i in range(len(grid)):
             current = []
             j = 0
             while j < len(grid[0]):
-                current.append(flattened[k])
+                current.append(flattened[flat_index])
                 j += 1
-                k += 1
+                flat_index += 1
             result.append(current)
           
         return result
