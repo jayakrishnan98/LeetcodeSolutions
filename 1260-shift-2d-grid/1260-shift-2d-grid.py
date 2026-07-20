@@ -8,24 +8,20 @@ class Solution:
 
         flattened = []
 
-        # Convert the 2D grid into a 1D list
         for row in grid:
             for value in row:
                 flattened.append(value)
 
         total_elements = len(flattened)
 
-        # Avoid unnecessary complete rotations
         k = k % total_elements
 
-        # Shift the list to the right by k positions
         if k > 0:
             flattened = flattened[-k:] + flattened[:-k]
 
         result = []
         index = 0
 
-        # Convert the shifted 1D list back into a 2D grid
         for row in range(rows):
             current_row = []
 
