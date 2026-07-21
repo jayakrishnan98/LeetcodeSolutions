@@ -1,29 +1,42 @@
 class Solution:
     def maxActiveSectionsAfterTrade(self, s: str) -> int:
-        total_ones = s.count("1")
-        zero_groups = []
+        total_ones = 0
+        maximum_gain = 0
+
+        previous_zero_group = None
 
         index = 0
 
         while index < len(s):
+            group_end = index
+
+            # Find the end of the current group
+            while (
+                group_end < len(s)
+                and s[group_end] == s[index]
+            ):
+                group_end += 1
+
+            group_length = group_end - index
+
             if s[index] == "1":
-                index += 1
-                continue
+                total_ones += group_length
 
-            # We found the beginning of a zero block
-            zero_count = 0
+            else:
+                # Combine the current zero block with
+                # the previous zero block
+                if previous_zero_group is not None:
+                    current_gain = (
+                        previous_zero_group + group_length
+                    )
 
-            while index < len(s) and s[index] == "0":
-                zero_count += 1
-                index += 1
+                    maximum_gain = max(
+                        maximum_gain,
+                        current_gain
+                    )
 
-            zero_groups.append(zero_count)
+                previous_zero_group = group_length
 
-        maximum_gain = 0
-
-        # Check every pair of neighbouring zero blocks
-        for index in range(len(zero_groups) - 1):
-            current_gain = zero_groups[index] + zero_groups[index + 1]
-            maximum_gain = max(maximum_gain, current_gain)
+            index = group_end
 
         return total_ones + maximum_gain
