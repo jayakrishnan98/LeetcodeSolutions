@@ -1,6 +1,9 @@
 class Solution:
     def uniqueXorTriplets(self, nums: List[int]) -> int:
         n = len(nums)
-        if n < 3:
+        if n <= 2:
             return n
-        return 1 << (int(math.log2(n)) + 1)
+        ans = 1
+        while ans <= n:
+            ans <<= 1
+        return ans
