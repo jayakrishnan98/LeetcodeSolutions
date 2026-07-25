@@ -1,20 +1,27 @@
 class Solution:
-    def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        result = []
-        def backtrack(start, current):
-            current_sum = sum(current)
-            if current_sum == target:
-                result.append(current.copy())
-                return
-                
-            elif current_sum > target:
-                return 
+    def combinationSum(
+        self, candidates: List[int], target: int
+    ) -> List[List[int]]:
 
-            for index in range(start, len(candidates)):
-                item = candidates[index]
-                current.append(item)
-                backtrack(index, current)
-                current.pop()
-                
-        backtrack(0,[])
-        return result
+        results = []
+
+        def backtrack(remain, comb, start):
+            if remain == 0:
+                # make a deep copy of the current combination
+                results.append(list(comb))
+                return
+            elif remain < 0:
+                # exceed the scope, stop exploration.
+                return
+
+            for i in range(start, len(candidates)):
+                # add the number into the combination
+                comb.append(candidates[i])
+                # give the current number another chance, rather than moving on
+                backtrack(remain - candidates[i], comb, i)
+                # backtrack, remove the number from the combination
+                comb.pop()
+
+        backtrack(target, [], 0)
+
+        return results
