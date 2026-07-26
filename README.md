@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0344-reverse-string) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0131-palindrome-partitioning) |
 | [3620-network-recovery-pathways](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
