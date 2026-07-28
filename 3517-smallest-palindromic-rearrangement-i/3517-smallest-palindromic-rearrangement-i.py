@@ -6,17 +6,18 @@ class Solution:
         
         for item in s:
             my_arr[ord(item) - ord('a')] += 1
-        result = ''
+        left = []
         mid = ''
         for i in range(len(my_arr)):
             while my_arr[i] > 1:
-                result += chr(ord('a') + i)
+                left.append(chr(ord('a') + i))
                 my_arr[i] -= 2
             if my_arr[i] == 1:
                 mid = chr(ord('a') + i)
                 my_arr[i] -= 1
+        left = "".join(left)
 
-        result = result + mid + result[::-1]
+        result = left + mid + left[::-1]
 
         return result
 
