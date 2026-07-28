@@ -1,7 +1,7 @@
 class Solution:
     def smallestPalindrome(self, s: str) -> str:
-        # if len(s) == 1:
-        #     return s
+        if len(s) == 1:
+            return s
         my_arr = [0] * 26
         
         for item in s:
