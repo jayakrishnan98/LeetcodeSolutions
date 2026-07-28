@@ -14,6 +14,7 @@ class Solution:
                 my_arr[i] -= 2
             if my_arr[i] == 1:
                 mid = chr(ord('a') + i)
+                my_arr[i] -= 1
 
         result = result + mid + result[::-1]
 
