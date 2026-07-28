@@ -11,10 +11,8 @@ class Solution:
         for index, count in enumerate(frequency):
             char = chr(ord("a") + index)
 
-            # Put half of this character's copies on the left.
             left_parts.append(char * (count // 2))
 
-            # A palindrome can have one odd-frequency character.
             if count % 2 == 1:
                 middle = char
 
