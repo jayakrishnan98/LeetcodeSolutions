@@ -5,7 +5,6 @@ class Solution:
         while left < right:
 
             mid = left + (right - left)//2
-            # if left half is sorted
             if nums[mid] > nums[right]:
                 left = mid + 1
             else:
