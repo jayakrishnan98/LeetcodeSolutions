@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0704-binary-search) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1512-number-of-good-pairs) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0131-palindrome-partitioning) |
+| [0486-predict-the-winner](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0486-predict-the-winner) |
 | [3620-network-recovery-pathways](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0486-predict-the-winner) |
 ## Tree
 |  |
 | ------- |
@@ -548,4 +552,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0278-first-bad-version) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
