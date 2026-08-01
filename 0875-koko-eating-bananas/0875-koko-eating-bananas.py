@@ -8,9 +8,7 @@ class Solution:
             required_hours = 0
 
             for pile in piles:
-                required_hours += pile // mid
-                if pile % mid != 0:
-                    required_hours += 1
+                required_hours += (pile + mid-1)//mid
 
             if required_hours > h:
                 # Too slow
