@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0486-predict-the-winner) |
@@ -566,4 +568,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0877-stone-game) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
