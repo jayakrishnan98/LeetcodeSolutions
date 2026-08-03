@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1406-stone-game-iii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1470-shuffle-the-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1406-stone-game-iii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1406-stone-game-iii) |
 | [3620-network-recovery-pathways](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
@@ -568,8 +571,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1406-stone-game-iii) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
