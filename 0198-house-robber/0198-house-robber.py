@@ -5,11 +5,12 @@ class Solution:
 
         for money in nums:
             skip_current = best_previous
-            rob_current = money + best_two_back
+            rob_current = best_two_back + money
 
             current_best = max(skip_current, rob_current)
 
-            best_two_back = best_previous
-            best_previous = current_best
+
+            best_two_back, best_previous = best_previous, current_best
+
 
         return best_previous
