@@ -1,22 +1,15 @@
 class Solution:
+    def rob(self, nums: list[int]) -> int:
+        best_two_back = 0
+        best_previous = 0
 
-    def rob(self, nums: List[int]) -> int:
+        for money in nums:
+            skip_current = best_previous
+            rob_current = money + best_two_back
 
-        # Special handling for empty case.
-        if not nums:
-            return 0
+            current_best = max(skip_current, rob_current)
 
-        N = len(nums)
+            best_two_back = best_previous
+            best_previous = current_best
 
-        rob_next_plus_one, rob_next = 0, nums[N - 1]
-
-        # DP table calculations.
-        for i in range(N - 2, -1, -1):
-
-            # Same as recursive solution.
-            current = max(rob_next, rob_next_plus_one + nums[i])
-
-            # Update the variables
-            rob_next_plus_one, rob_next = rob_next, current
-
-        return rob_next
+        return best_previous
