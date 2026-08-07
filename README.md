@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0322-coin-change) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -602,4 +605,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1406-stone-game-iii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
