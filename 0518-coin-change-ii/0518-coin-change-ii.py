@@ -4,7 +4,7 @@ class Solution:
         dp[0] = 1
 
         for coin in coins:
-            for current_amount in range(coin, amount + 1):
-                dp[current_amount] += dp[current_amount - coin]
+            for x in range(coin, amount + 1):
+                dp[x] += dp[x - coin]
 
         return dp[amount]
