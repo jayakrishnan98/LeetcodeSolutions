@@ -5,6 +5,9 @@ class Solution:
         text2: str
     ) -> int:
 
+        if len(text1) < len(text2):
+            text1, text2 = text2, text1
+
         m = len(text1)
         n = len(text2)
 
@@ -14,7 +17,6 @@ class Solution:
             current_row = [0] * (n + 1)
 
             for j in range(n - 1, -1, -1):
-
                 if text1[i] == text2[j]:
                     current_row[j] = 1 + next_row[j + 1]
                 else:
