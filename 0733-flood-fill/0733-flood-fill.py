@@ -19,5 +19,4 @@ class Solution:
                 ):
                     image[r][c] = color
                     q.append((r, c))
-
         return image
