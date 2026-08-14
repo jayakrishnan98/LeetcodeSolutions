@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [1260-shift-2d-grid](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1672-richest-customer-wealth) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -579,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
