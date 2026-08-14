@@ -12,19 +12,23 @@ class Solution:
             q.append((r,c))
             visited.add((r,c))
             current_result = 1
+            directions = [[1,0],[-1,0],[0,1],[0,-1]]
             while q:
-                directions = [[1,0],[-1,0],[0,1],[0,-1]]
                 row, col = q.popleft()
-                
                 for dr, dc in directions:
                     r, c = row+dr, col+dc
-                    if (r in range(rows) and
-                        c in range(cols) and
+                    if (0 <= r < rows and
+                        0 <= c < cols and
                         grid[r][c] == 1 and
                         (r,c) not in visited):
                         q.append((r,c))
                         visited.add((r,c))
                         current_result += 1
+                    elif (0 <= r < rows and
+                        0 <= c < cols and
+                        grid[r][c] == 0 and
+                        (r,c) not in visited):
+                        visited.add((r,c))
             return current_result
 
         for row in range(rows):
