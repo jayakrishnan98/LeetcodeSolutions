@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1140-stone-game-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1672-richest-customer-wealth) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
