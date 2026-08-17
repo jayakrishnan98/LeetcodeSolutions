@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1528-shuffle-string) |
+| [1563-stone-game-v](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1563-stone-game-v) |
 | [1672-richest-customer-wealth](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1773-count-items-matching-a-rule) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1512-number-of-good-pairs) |
+| [1563-stone-game-v](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1563-stone-game-v) |
 | [3620-network-recovery-pathways](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
@@ -662,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/2029-stone-game-ix) |
 ## Memoization
 |  |
