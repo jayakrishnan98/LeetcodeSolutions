@@ -12,7 +12,7 @@ class Solution:
                 for nei in graph[i]:
                     if group[nei] == group[i]:
                         return False
-                    else:
+                    elif not group[nei]:
                         q.append(nei)
                         group[nei] = -1 * group[i]
             return True
@@ -20,5 +20,4 @@ class Solution:
         for i in range(len(graph)):
             if not bfs(i):
                 return False
-
         return True
