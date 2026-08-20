@@ -522,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0785-is-graph-bipartite) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0322-coin-change) |
+| [0684-redundant-connection](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0785-is-graph-bipartite) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -637,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
