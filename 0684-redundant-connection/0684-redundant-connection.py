@@ -3,13 +3,12 @@ class Solution:
 
         parent = list(range(len(edges)+1))
 
-
         def find(x):
             if parent[x] != x:
                 parent[x] = find(parent[x])
             return parent[x]
-
-        def union(a,b):
+        
+        def union(a, b):
             root_a = find(a)
             root_b = find(b)
 
@@ -19,6 +18,6 @@ class Solution:
             parent[root_b] = root_a
             return True
 
-        for a,b in edges:
-            if not union(a,b):
-                return [a,b]
+        for a, b in edges:
+            if not union(a, b):
+                return [a, b]
