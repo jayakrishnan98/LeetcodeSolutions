@@ -3,9 +3,8 @@ class Solution:
         hashmap = {}
 
         for i in range(len(nums)):
+            complement = target - nums[i]
+            if complement in hashmap and hashmap[complement] != i:
+                return[i, hashmap[complement]]  
             hashmap[nums[i]] = i
-        for i in range(len(nums)):
-            compliment = target - nums[i]
-            if compliment in hashmap and hashmap[compliment] != i:
-                return[i, hashmap[compliment]]  
         return []          
