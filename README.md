@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0844-backspace-string-compare) |
+| [0940-distinct-subsequences-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1108-defanging-an-ip-address) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1406-stone-game-iii) |
