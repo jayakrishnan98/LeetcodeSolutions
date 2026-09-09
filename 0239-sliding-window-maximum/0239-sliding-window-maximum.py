@@ -3,13 +3,9 @@ class Solution:
         left = 0
         result = []
         q = collections.deque()
-
         for right in range(len(nums)):
-
-            # Remove smaller elements from the back
             while q and nums[q[-1]] < nums[right]:
                 q.pop()
-
             q.append(right)
 
             # Remove indices that are outside the window
