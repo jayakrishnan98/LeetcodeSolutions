@@ -1,9 +1,14 @@
 class Solution:
     def containsNearbyDuplicate(self, nums: list[int], k: int) -> bool:
-        hashmap = {}
+        window = set()
 
-        for index, value in enumerate(nums):
-            if value in hashmap and (index - hashmap[value]) <= k:
+        for i, num in enumerate(nums):
+            if num in window:
                 return True
-            hashmap[value] = index
+
+            window.add(num)
+
+            if len(window) > k:
+                window.remove(nums[i - k])
+
         return False
