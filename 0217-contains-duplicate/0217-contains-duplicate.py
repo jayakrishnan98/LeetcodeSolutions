@@ -1,10 +1,8 @@
 class Solution:
-    def containsDuplicate(self, nums: List[int]) -> bool:
-        freq = set()
-
+    def containsDuplicate(self, nums: list[int]) -> bool:
+        hashmap = set()
         for num in nums:
-            if num in freq:
+            if num in hashmap:
                 return True
-            freq.add(num)
-
+            hashmap.add(num)
         return False
