@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1480-running-sum-of-1d-array) |
+| [1504-count-submatrices-with-all-ones](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1504-count-submatrices-with-all-ones) |
 | [1512-number-of-good-pairs](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1528-shuffle-string) |
 | [1563-stone-game-v](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1563-stone-game-v) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1260-shift-2d-grid) |
+| [1504-count-submatrices-with-all-ones](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1504-count-submatrices-with-all-ones) |
 | [1672-richest-customer-wealth](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1672-richest-customer-wealth) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1406-stone-game-iii) |
+| [1504-count-submatrices-with-all-ones](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1504-count-submatrices-with-all-ones) |
 | [1510-stone-game-iv](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1872-stone-game-viii) |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1504-count-submatrices-with-all-ones](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1504-count-submatrices-with-all-ones) |
 ## Design
 |  |
 | ------- |
@@ -513,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1504-count-submatrices-with-all-ones](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1504-count-submatrices-with-all-ones) |
 ## Linked List
 |  |
 | ------- |
