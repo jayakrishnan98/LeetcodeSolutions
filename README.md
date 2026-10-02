@@ -853,4 +853,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0141-linked-list-cycle) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
