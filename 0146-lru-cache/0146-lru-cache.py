@@ -6,25 +6,23 @@ class Node:
         self.next = None
 
 class LRUCache:
+
     def __init__(self, capacity: int):
         self.capacity = capacity
         self.cache = {}
 
-        # Dummy nodes
-        self.left = Node(0, 0)   # LRU side
-        self.right = Node(0, 0)  # MRU side
+        self.left = Node(0, 0)
+        self.right = Node(0, 0)
 
         self.left.next = self.right
         self.right.prev = self.left
 
-    def get(self, key: int) -> int:
 
+    def get(self, key: int) -> int:
         if key not in self.cache:
             return -1
-
+        
         node = self.cache[key]
-
-        # This key was just used, so move it to MRU
         self.remove(node)
         self.insert(node)
 
@@ -33,34 +31,39 @@ class LRUCache:
     def put(self, key: int, value: int) -> None:
 
         if key in self.cache:
-            # Remove old node
-            self.remove(self.cache[key])
-
-        # Create new node
+            temp = self.cache[key]
+            self.remove(temp)
+        
         node = Node(key, value)
         self.cache[key] = node
-
-        # New/updated key becomes MRU
         self.insert(node)
+
         
     def remove(self, node):
-        prev_node, next_node = node.prev, node.next
-        prev_node.next, next_node.prev = next_node, prev_node
+        
+        prev_node = node.prev
+        next_node = node.next
+
+        prev_node.next = next_node
+        next_node.prev = prev_node
 
     def insert(self, node):
-        # Insert just before right (MRU position)
+        
         prev_node = self.right.prev
 
         prev_node.next = node
         node.prev = prev_node
-
         node.next = self.right
         self.right.prev = node
-        # Too many items
+
         if len(self.cache) > self.capacity:
-
-            # LRU node is right after left dummy
             lru = self.left.next
-
             self.remove(lru)
+
             del self.cache[lru.key]
+            
+
+# Your LRUCache object will be instantiated and called as such:
+# obj = LRUCache(capacity)
+# param_1 = obj.get(key)
+# obj.put(key,value)
