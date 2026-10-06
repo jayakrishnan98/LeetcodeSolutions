@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0078-subsets) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0115-distinct-subsequences) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
