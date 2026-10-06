@@ -1,29 +1,40 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-        start = 0
-        end = 0
 
-        def expand(left, right):
-            while left >= 0 and right < len(s) and s[left] == s[right]:
-                left -= 1
-                right += 1
+        # Transform the string
+        t = "^#" + "#".join(s) + "#$"
 
-            # We went one step too far on both sides
-            return left + 1, right - 1
+        n = len(t)
+        P = [0] * n
 
-        for i in range(len(s)):
-            # Odd length: "aba"
-            left1, right1 = expand(i, i)
+        center = 0
+        right = 0
 
-            # Even length: "abba"
-            left2, right2 = expand(i, i + 1)
+        for i in range(1, n - 1):
 
-            if right1 - left1 > end - start:
-                start = left1
-                end = right1
+            # Mirror position of i
+            mirror = 2 * center - i
 
-            if right2 - left2 > end - start:
-                start = left2
-                end = right2
+            # If i is inside the current palindrome,
+            # reuse previously calculated information
+            if i < right:
+                P[i] = min(right - i, P[mirror])
 
-        return s[start:end + 1]
+            # Try to expand further
+            while t[i + (P[i] + 1)] == t[i - (P[i] + 1)]:
+                P[i] += 1
+
+            # If palindrome around i extends beyond right,
+            # update center and right
+            if i + P[i] > right:
+                center = i
+                right = i + P[i]
+
+        # Find the largest palindrome
+        max_len = max(P)
+        center_index = P.index(max_len)
+
+        # Convert back to original string
+        start = (center_index - max_len) // 2
+
+        return s[start:start + max_len]
