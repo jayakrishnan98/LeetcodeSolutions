@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0486-predict-the-winner) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0518-coin-change-ii) |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1386-cinema-seat-allocation) |
