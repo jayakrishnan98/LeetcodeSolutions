@@ -1,13 +1,9 @@
 class Solution:
-    def majorityElement(self, nums: List[int]) -> int:
-        value = None
-        count = 0
-        for num in nums:
-            if count == 0:
-                value = num
-            if num == value:
-                count += 1
-            else:
-                count -= 1
+    def majorityElement(self, nums: list[int]) -> int:
+        maj_count = len(nums) // 2
+        freq = {}
         
-        return value
+        for num in nums:
+            freq[num] = freq.get(num, 0) + 1
+            if freq[num] > maj_count:
+                return num
