@@ -7,8 +7,7 @@ class Solution:
             heapq.heappush(min_heap, (count, item))
             if len(min_heap) > k:
                 heapq.heappop(min_heap)
-        
-        return [count for item, count in min_heap]
+        return [item for count, item in min_heap]
 
         
             
