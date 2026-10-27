@@ -1,12 +1,17 @@
 class Solution:
     def twoSum(self, numbers: list[int], target: int) -> list[int]:
-        hashmap = {}
-        for idx, value in enumerate(numbers):
-            complement = target - value
-            print(complement)
+        low, high = 0, len(numbers) - 1
 
-            if complement in hashmap:
-                return [hashmap[complement], idx+1]
+        while low < high:
+
+            sum = numbers[low] + numbers[high]
+
+            if sum == target:
+                return [low+1, high+1]
+            elif sum<target:
+                low+=1
+            else:
+                high-=1
             
-            hashmap[value] = idx+1
+        return [-1,-1]
         
