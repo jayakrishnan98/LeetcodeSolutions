@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1122-relative-sort-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0904-fruit-into-baskets) |
+| [1122-relative-sort-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1122-relative-sort-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
@@ -923,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0056-merge-intervals) |
+| [1122-relative-sort-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1122-relative-sort-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -936,4 +941,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
