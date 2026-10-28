@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1122-relative-sort-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1260-shift-2d-grid) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1260-shift-2d-grid) |
 | [1504-count-submatrices-with-all-ones](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1504-count-submatrices-with-all-ones) |
 | [1672-richest-customer-wealth](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1672-richest-customer-wealth) |
@@ -699,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
