@@ -9,8 +9,8 @@ class Solution:
         islands = 0
 
         def bfs(r,c):
-            q = collections.deque()
             visit.add((r,c))
+            q = collections.deque()
             q.append((r,c))
 
             while q:
@@ -19,8 +19,8 @@ class Solution:
 
                 for dr, dc in directions:
                     r, c = row + dr, col + dc
-                    if (r in range(rows) and
-                        c in range(cols) and
+                    if (0<=r<rows and
+                        0<=c<cols and
                         grid[r][c] == '1' and
                         (r,c) not in visit):
                         q.append((r,c))
