@@ -12,6 +12,7 @@ class Solution:
             q = collections.deque()
             visit.add((r,c))
             q.append((r,c))
+
             while q:
                 row, col = q.popleft()
                 directions = [[1,0], [-1, 0], [0, 1], [0, -1]]
