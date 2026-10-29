@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0115-distinct-subsequences) |
@@ -813,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
