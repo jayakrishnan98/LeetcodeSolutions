@@ -4,13 +4,12 @@ class Solution:
         directions = [[1,0],[-1,0],[0,1],[0,-1]]
         q = deque()
         islands = 0
-        visited = set()
 
         for row in range(ROWS):
             for col in range(COLS):
-                if grid[row][col] == '1' and (row, col) not in visited:
-                    visited.add((row, col))
+                if grid[row][col] == '1':
                     q.append((row, col))
+                    grid[row][col] = '0'
                 
                     while q:
                         dr,dc = q.pop()
@@ -18,8 +17,8 @@ class Solution:
                             nr = r + dr
                             nc = c + dc
 
-                            if 0<=nr<ROWS and 0<=nc<COLS and (nr,nc) not in visited and grid[nr][nc] == '1':
-                                visited.add((nr,nc))
+                            if 0<=nr<ROWS and 0<=nc<COLS and grid[nr][nc] == '1':
+                                grid[nr][nc] = '0'
                                 q.append((nr,nc))
                     islands += 1
             
