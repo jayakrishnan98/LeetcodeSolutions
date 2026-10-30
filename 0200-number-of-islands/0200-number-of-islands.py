@@ -13,7 +13,7 @@ class Solution:
                     q.append((row, col))
                 
                     while q:
-                        dr,dc = q.popleft()
+                        dr,dc = q.pop()
                         for r,c in directions:
                             nr = r + dr
                             nc = c + dc
