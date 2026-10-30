@@ -12,7 +12,7 @@ class Solution:
                     grid[row][col] = '0'
                 
                     while q:
-                        dr,dc = q.pop()
+                        dr,dc = q.popleft()
                         for r,c in directions:
                             nr = r + dr
                             nc = c + dc
