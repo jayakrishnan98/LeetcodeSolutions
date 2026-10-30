@@ -8,6 +8,6 @@ class Solution:
             if not result or result[-1][1] < start:
                 result.append(interval)
             else:
-                result[-1][1] = end
+                result[-1][1] = max(end, result[-1][1])
             
         return result
