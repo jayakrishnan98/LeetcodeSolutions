@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0239-sliding-window-maximum) |
+| [0253-meeting-rooms-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0303-range-sum-query-immutable) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0238-product-of-array-except-self) |
+| [0253-meeting-rooms-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0253-meeting-rooms-ii) |
 | [0303-range-sum-query-immutable](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0560-subarray-sum-equals-k) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0242-valid-anagram) |
+| [0253-meeting-rooms-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
+| [0253-meeting-rooms-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0344-reverse-string) |
@@ -537,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0011-container-with-most-water) |
+| [0253-meeting-rooms-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0253-meeting-rooms-ii) |
 | [0435-non-overlapping-intervals](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -773,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0239-sliding-window-maximum) |
+| [0253-meeting-rooms-ii](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
