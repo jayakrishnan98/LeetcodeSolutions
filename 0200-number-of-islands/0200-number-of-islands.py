@@ -1,33 +1,26 @@
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
-        if not grid:
-            return 0
-        
-        visit = set()
+        ROWS, COLS = len(grid), len(grid[0])
+        directions = [[1,0],[-1,0],[0,1],[0,-1]]
+        q = deque()
         islands = 0
+        visited = set()
 
-        def bfs(r,c):
-            visit.add((r,c))
-            q = deque()
-            q.append((r,c))
-            
-            while q:
-                directions = [[-1,0],[1,0],[0,-1],[0,1]]
-                row, col = q.popleft()
+        for row in range(ROWS):
+            for col in range(COLS):
+                if grid[row][col] == '1' and (row, col) not in visited:
+                    visited.add((row, col))
+                    q.append((row, col))
+                
+                    while q:
+                        dr,dc = q.popleft()
+                        for r,c in directions:
+                            nr = r + dr
+                            nc = c + dc
 
-                for rw, cl in directions:
-                    r = row+rw
-                    c = col+cl
-                    if 0<=r<len(grid) and 0<=c<len(grid[0]) and grid[r][c] == '1' and (r,c) not in visit:
-                        visit.add((r,c))
-                        q.append((r,c))
-
-
-        
-        for r in range(len(grid)):
-            for c in range(len(grid[0])):
-                if grid[r][c] == '1' and (r,c) not in visit:
-                    bfs(r,c)
+                            if 0<=nr<ROWS and 0<=nc<COLS and (nr,nc) not in visited and grid[nr][nc] == '1':
+                                visited.add((nr,nc))
+                                q.append((nr,nc))
                     islands += 1
-        
+            
         return islands
