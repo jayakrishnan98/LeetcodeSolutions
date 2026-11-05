@@ -969,4 +969,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/0523-continuous-subarray-sum) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/jayakrishnan98/LeetcodeSolutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
