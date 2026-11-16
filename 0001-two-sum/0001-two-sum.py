@@ -3,10 +3,10 @@ class Solution:
         hashmap = {}
 
         for idx, value in enumerate(nums):
-
             complement = target - value
 
             if complement in hashmap:
                 return [hashmap[complement], idx]
-
+             
             hashmap[value] = idx
+    
